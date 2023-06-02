@@ -33,7 +33,7 @@ Hi! I am a Master student supervised by Dr. Rui Yang. My research interest inclu
 - *2021* XJTLU(UoL) Master Scholarship 
 
 # 📖 Educations
-- *2021.09 - 2023.04*, Xian Jiaotong-Liverpool University (Liverpool University), Master of Research in Pattern Recognition and Intelligent System
+- *2021.09 - 2023.04*, Xi'an Jiaotong-Liverpool University (The University of Liverpool), Master of Research in Pattern Recognition and Intelligent System
 - *2017.09 - 2021.06*, Guangzhou University, Bachelor of Engineering in Robot Engineering
 
 # 💻 Experience
