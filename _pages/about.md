@@ -20,7 +20,7 @@ redirect_from:
 Hi! I am a Master student supervised by Dr. Rui Yang. My research interest includes machine learning, electroencephalogram(EEG).
 
 # 🔥 News
-- *2023-09*: &nbsp;🎉🎉 A paper on TNSRE is accepted.
+- *2023-09*: &nbsp;🎉🎉 A paper on Transactions on Neural Systems and Rehabilitation Engineering is accepted.
 - *2023*: &nbsp;🎉🎉 A paper is submitted to Transactions on Neural Systems and Rehabilitation Engineering.
 
 # 📝 Publications 
@@ -39,4 +39,5 @@ Hi! I am a Master student supervised by Dr. Rui Yang. My research interest inclu
 - *2017.09 - 2021.06*, Guangzhou University, Bachelor of Engineering in Robot Engineering
 
 # 💻 Experience
-- *2022.01 - 2023.07 (now)*, Research Assistant in XJTLU and AUO, Suzhou, China.
+- *2022.01 - Present, Research Assistant at the Centre for Intelligent Control and Optimization (CICO), organized by AUO and XJTLU, Suzhou, China.
+- *2022.01 - 2022.09, Teaching Assistant for "Mobile Robot Design" and "Introduction to Intelligent Robotics and Applications" at XJTLU, Suzhou, China.
