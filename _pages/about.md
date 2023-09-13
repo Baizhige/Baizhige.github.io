@@ -20,9 +20,11 @@ redirect_from:
 Hi! I am a Master student supervised by Dr. Rui Yang. My research interest includes machine learning, electroencephalogram(EEG).
 
 # 🔥 News
+- *2023-09*: &nbsp;🎉🎉 A paper on TNSRE is accepted.
 - *2023*: &nbsp;🎉🎉 A paper is submitted to Transactions on Neural Systems and Rehabilitation Engineering.
 
 # 📝 Publications 
+- *2023* Chengxuan Qin, Rui Yang, Mengjie Huang, Weibo Liu, and Zidong Wang. Spatial Variation Generation Algorithm for Motor Imagery Data Augmentation: Increasing the Density of Sample Vicinity. IEEE Transactions on Neural Systems and Rehabilitation Engineering, 2023.
 - *2022* Liu Wang, Mengjie Huang, Chengxuan Qin, Yiqi Wang, and Rui Yang. Movement augmentation in virtual reality: Impact on sense of agency measured by subjective responses and electroencephalography. In 2022 IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops (VRW), pages 832–833, 2022.
 - *2021* Runnan Huang, Chengxuan Qin, Jianling Li, and Xuejing Lan. Path planning of mobile robot in unknown dynamic continuous environment using reward-modified deep Q-network. Optimal Control Applications and Methods, pages 1–18, 2020.
 - *2020* Chengxuan Qin, Xuejing Lan, Xiaojing Zhong, and Guiyun Liu. Q-learning-based obstacle avoidance path planning with local optimal points. In Advances in Guidance, Navigation and Control: Proceedings of 2020 International Conference on Guidance, Navigation and Control (ICGNC), pages 3255–3268, 2022.
