@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Chengxuan Qin"
-description              : "A poor student home homepage"
+description              : "Chengxuan Qin's Homepage"
 repository               : "Baizhige/Baizhige.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Chengxuan Qin"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "A poor student"
+  bio              : "A PhD student jointly affiliated with the School of Advanced Technology at Xi’an Jiaotong-Liverpool University, Suzhou, China, and the School of Electrical Engineering, Electronics and Computer Science at the University of Liverpool, United Kingdom. His research focuses on brain-computer interfaces, EEG signal modeling, and transfer learning. He has published several papers in the field of brain-computer interfaces and is currently working on large-scale EEG data analysis."
   location         : "Suzhou, China"
   employer         :
   pubmed           : 
@@ -45,7 +45,7 @@ author:
   lastfm           :
   linkedin         : # e.g., "linkedin username"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : # e.g., "https://orcid.org/xxxx"
+  orcid            : # e.g., "https://orcid.org/0009-0009-8463-3457"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
