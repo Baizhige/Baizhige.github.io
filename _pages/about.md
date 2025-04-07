@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! I am a Master student supervised by Dr. Rui Yang. My research interest includes machine learning, electroencephalogram(EEG).
+Hi! I am a PhD student jointly affiliated with the School of Advanced Technology at Xi’an Jiaotong-Liverpool University, Suzhou, China, and the School of Electrical Engineering, Electronics and Computer Science at the University of Liverpool, United Kingdom. His research focuses on brain-computer interfaces, EEG signal modeling, and transfer learning. He has published several papers in the field of brain-computer interfaces and is currently working on large-scale EEG data analysis.
 
 # 🔥 News
 - *2023-09*: &nbsp;🎉🎉 A paper on Transactions on Neural Systems and Rehabilitation Engineering is accepted.
