@@ -1,0 +1,202 @@
+{
+  "profile": {
+    "id": "wdxoBcUAAAAJ",
+    "name": "Chengxuan Qin",
+    "url": "https://scholar.google.com/citations?user=wdxoBcUAAAAJ&hl=en",
+    "citations": 208,
+    "h_index": 8,
+    "i10_index": 6
+  },
+  "publications": [
+    {
+      "id": "Se3iqnhoufwC",
+      "title": "EEG Benchmarking Needs a Task Specification Layer: NeuroDoc for Rulebook-Guided, Executable Benchmark Construction",
+      "authors": "C Qin, Z Chen, S Peng, R Yang, J Cui, Y Dong, J Li, L Peng, Z Shang, ...",
+      "venue": "arXiv preprint arXiv:2606.22925 , 2026",
+      "year": "2026",
+      "citations": 0,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wdxoBcUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wdxoBcUAAAAJ:Se3iqnhoufwC"
+    },
+    {
+      "id": "UebtZRa9Y70C",
+      "title": "Fragile by Design: On the Limits of Adversarial Defenses in Personalized DreamBooth Generation",
+      "authors": "Z Chen, Y Zhang, X Yin, C Qin, X Zhao, X Huang, W Ruan",
+      "venue": "Proceedings of the AAAI Conference on Artificial Intelligence 40 (45), 38304 … , 2026",
+      "year": "2026",
+      "citations": 0,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wdxoBcUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wdxoBcUAAAAJ:UebtZRa9Y70C"
+    },
+    {
+      "id": "roLk4NBRz8UC",
+      "title": "EEG-Infinity: A Mathematical Modeling-Inspired Architecture for Addressing Cross-Device Challenges in Motor Imagery",
+      "authors": "C Qin, R Yang, L Zhu, Z Chen, M Huang, FE Alsaadi, Z Wang",
+      "venue": "IEEE Transactions on Neural Systems and Rehabilitation Engineering , 2025",
+      "year": "2025",
+      "citations": 2,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wdxoBcUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wdxoBcUAAAAJ:roLk4NBRz8UC"
+    },
+    {
+      "id": "_FxGoFyzp5QC",
+      "title": "HEAR: An EEG Foundation Model with Heterogeneous Electrode Adaptive Representation",
+      "authors": "Z Chen, C Qin, W You, R Liu, C Chu, R Yang, KC Tan, J Wu",
+      "venue": "arXiv preprint arXiv:2510.12515 , 2025",
+      "year": "2025",
+      "citations": 8,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wdxoBcUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wdxoBcUAAAAJ:_FxGoFyzp5QC"
+    },
+    {
+      "id": "ufrVoPGSRksC",
+      "title": "Social informer: pedestrian trajectory prediction by informer with adaptive trajectory probability region optimization",
+      "authors": "Z Jiang, R Yang, Y Ma, C Qin, X Chen, Z Wang",
+      "venue": "IEEE Transactions on Cybernetics , 2025",
+      "year": "2025",
+      "citations": 31,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wdxoBcUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wdxoBcUAAAAJ:ufrVoPGSRksC"
+    },
+    {
+      "id": "eQOLeE2rZwMC",
+      "title": "Adaptive thresholding in EEG artifact removal through multimodal fusion: A multimodal artifact subspace reconstruction approach",
+      "authors": "W You, R Yang, C Qin, M Huang, Z Wang",
+      "venue": "IEEE Transactions on Emerging Topics in Computational Intelligence , 2025",
+      "year": "2025",
+      "citations": 8,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wdxoBcUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wdxoBcUAAAAJ:eQOLeE2rZwMC"
+    },
+    {
+      "id": "YsMSGLbcyi4C",
+      "title": "Social entropy informer: A multi-scale model-data dual-driven approach for pedestrian trajectory prediction",
+      "authors": "Z Jiang, C Qin, R Yang, B Shi, FE Alsaadi, Z Wang",
+      "venue": "IEEE Transactions on Intelligent Transportation Systems , 2025",
+      "year": "2025",
+      "citations": 32,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wdxoBcUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wdxoBcUAAAAJ:YsMSGLbcyi4C"
+    },
+    {
+      "id": "Y0pCki6q_DkC",
+      "title": "EEGUnity: Open-source tool in facilitating unified EEG datasets towards large-scale EEG model",
+      "authors": "C Qin, R Yang, W You, Z Chen, L Zhu, M Huang, Z Wang",
+      "venue": "IEEE Transactions on Neural Systems and Rehabilitation Engineering , 2025",
+      "year": "2025",
+      "citations": 17,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wdxoBcUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wdxoBcUAAAAJ:Y0pCki6q_DkC"
+    },
+    {
+      "id": "LkGwnXOMwfcC",
+      "title": "Multilevel Social Interaction Modeling with Trajectory-Bounded for Pedestrian Trajectory Prediction",
+      "authors": "Z Jiang, R Yang, C Qin",
+      "venue": "IEEE/CAA Journal of Automatica Sinica , 2025",
+      "year": "2025",
+      "citations": 0,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wdxoBcUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wdxoBcUAAAAJ:LkGwnXOMwfcC"
+    },
+    {
+      "id": "W7OEmFMy1HYC",
+      "title": "From Electrode to Global Brain: Integrating Multi-and Cross-Scale Brain Connections and Interactions Under Cross-Subject and Within-Subject Scenarios",
+      "authors": "C Zhige, Q Chengxuan",
+      "venue": "arXiv preprint arXiv:2411.05862 , 2024",
+      "year": "2024",
+      "citations": 0,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wdxoBcUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wdxoBcUAAAAJ:W7OEmFMy1HYC"
+    },
+    {
+      "id": "qjMakFHDy7sC",
+      "title": "Effect of reaching movement modulation on experience of control in virtual reality",
+      "authors": "L Wang, M Huang, R Yang, C Qin, J Han, HN Liang",
+      "venue": "International Journal of Human–Computer Interaction 40 (21), 6740-6757 , 2024",
+      "year": "2024",
+      "citations": 7,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wdxoBcUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wdxoBcUAAAAJ:qjMakFHDy7sC"
+    },
+    {
+      "id": "Tyk-4Ss8FVUC",
+      "title": "Optimization in Chiller System: A Strategy to Solving Time Delay Based on Cooling Demand Prediction",
+      "authors": "S Ni, C Qin, R Yang, H Hsieh, W Chan, B Lin, B Wang",
+      "venue": "2024 43rd Chinese Control Conference (CCC), 1760-1764 , 2024",
+      "year": "2024",
+      "citations": 0,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wdxoBcUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wdxoBcUAAAAJ:Tyk-4Ss8FVUC"
+    },
+    {
+      "id": "zYLM7Y9cAGgC",
+      "title": "BDAN: Mitigating temporal difference across electrodes in cross-subject motor imagery classification via generative bridging domain",
+      "authors": "Z Chen, R Yang, M Huang, C Qin, Z Wang",
+      "venue": "arXiv preprint arXiv:2404.10494 , 2024",
+      "year": "2024",
+      "citations": 3,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wdxoBcUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wdxoBcUAAAAJ:zYLM7Y9cAGgC"
+    },
+    {
+      "id": "WF5omc3nYNoC",
+      "title": "跨设备的脑电数据对齐方法, 装置, 设备及存储介质",
+      "authors": "C Qin, M Huang, R Yang",
+      "venue": "",
+      "year": "2024",
+      "citations": 0,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wdxoBcUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wdxoBcUAAAAJ:WF5omc3nYNoC"
+    },
+    {
+      "id": "2osOgNQ5qMEC",
+      "title": "Spatial Variation Generation Algorithm for Motor Imagery Data Augmentation: Increasing the Density of Sample Vicinity",
+      "authors": "C Qin, R Yang, M Huang, W Liu, Z Wang",
+      "venue": "IEEE Transactions on Neural Systems and Rehabilitation Engineering , 2023",
+      "year": "2023",
+      "citations": 32,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wdxoBcUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wdxoBcUAAAAJ:2osOgNQ5qMEC"
+    },
+    {
+      "id": "u-x6o8ySG0sC",
+      "title": "Path planning of mobile robot in unknown dynamic continuous environment using reward‐modified deep Q‐network",
+      "authors": "R Huang, C Qin, JL Li, X Lan",
+      "venue": "Optimal Control Applications and Methods 44 (3), 1570-1587 , 2023",
+      "year": "2023",
+      "citations": 43,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wdxoBcUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wdxoBcUAAAAJ:u-x6o8ySG0sC"
+    },
+    {
+      "id": "UeHWp8X0CEIC",
+      "title": "Invention Patent: 一种数据增强方法, 装置, 电子设备及存储介质",
+      "authors": "C Qin, R Yang, M Huang",
+      "venue": "",
+      "year": "2022",
+      "citations": 0,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wdxoBcUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wdxoBcUAAAAJ:UeHWp8X0CEIC"
+    },
+    {
+      "id": "d1gkVwhDpl0C",
+      "title": "Movement augmentation in virtual reality: Impact on sense of agency measured by subjective responses and electroencephalography",
+      "authors": "L Wang, M Huang, C Qin, Y Wang, R Yang",
+      "venue": "2022 IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and … , 2022",
+      "year": "2022",
+      "citations": 19,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wdxoBcUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wdxoBcUAAAAJ:d1gkVwhDpl0C"
+    },
+    {
+      "id": "IjCSPb-OGe4C",
+      "title": "Honorable Mention Best Poster Award: IEEE VR Conference",
+      "authors": "L Wang, M Huang, C Qin, Y Wang, R Yang",
+      "venue": "",
+      "year": "2022",
+      "citations": 0,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wdxoBcUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wdxoBcUAAAAJ:IjCSPb-OGe4C"
+    },
+    {
+      "id": "9yKSN-GCB0IC",
+      "title": "Q-Learning-Based Obstacle Avoidance Path Planning with Local Optimal Points",
+      "authors": "C Qin, X Lan, X Zhong, G Liu",
+      "venue": "Advances in Guidance, Navigation and Control: Proceedings of 2020 … , 2021",
+      "year": "2021",
+      "citations": 0,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wdxoBcUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wdxoBcUAAAAJ:9yKSN-GCB0IC"
+    },
+    {
+      "id": "u5HHmVD_uO8C",
+      "title": "Intelligent guidance of autonomous mobile robots based on adaptive dynamic programming",
+      "authors": "X Lan, C Qin, Y Liu, H Ouyang, G Liu",
+      "venue": "2019 34rd Youth Academic Annual Conference of Chinese Association of … , 2019",
+      "year": "2019",
+      "citations": 6,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wdxoBcUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wdxoBcUAAAAJ:u5HHmVD_uO8C"
+    }
+  ],
+  "updated_at": "2026-07-22T08:49:33+00:00"
+}
