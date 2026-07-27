@@ -99,15 +99,6 @@
       "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wdxoBcUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wdxoBcUAAAAJ:W7OEmFMy1HYC"
     },
     {
-      "id": "qjMakFHDy7sC",
-      "title": "Effect of reaching movement modulation on experience of control in virtual reality",
-      "authors": "L Wang, M Huang, R Yang, C Qin, J Han, HN Liang",
-      "venue": "International Journal of Human–Computer Interaction 40 (21), 6740-6757 , 2024",
-      "year": "2024",
-      "citations": 7,
-      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wdxoBcUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wdxoBcUAAAAJ:qjMakFHDy7sC"
-    },
-    {
       "id": "Tyk-4Ss8FVUC",
       "title": "Optimization in Chiller System: A Strategy to Solving Time Delay Based on Cooling Demand Prediction",
       "authors": "S Ni, C Qin, R Yang, H Hsieh, W Chan, B Lin, B Wang",
@@ -133,6 +124,15 @@
       "year": "2024",
       "citations": 0,
       "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wdxoBcUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wdxoBcUAAAAJ:WF5omc3nYNoC"
+    },
+    {
+      "id": "qjMakFHDy7sC",
+      "title": "Effect of reaching movement modulation on experience of control in virtual reality",
+      "authors": "L Wang, M Huang, R Yang, C Qin, J Han, HN Liang",
+      "venue": "University of Exeter , 2023",
+      "year": "2023",
+      "citations": 7,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wdxoBcUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wdxoBcUAAAAJ:qjMakFHDy7sC"
     },
     {
       "id": "2osOgNQ5qMEC",
@@ -198,5 +198,5 @@
       "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wdxoBcUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wdxoBcUAAAAJ:u5HHmVD_uO8C"
     }
   ],
-  "updated_at": "2026-07-22T08:49:33+00:00"
+  "updated_at": "2026-07-27T06:02:19+00:00"
 }
