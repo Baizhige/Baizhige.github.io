@@ -28,7 +28,7 @@
     },
     {
       "id": "roLk4NBRz8UC",
-      "title": "EEG-Infinity: A Mathematical Modeling-Inspired Architecture for Addressing Cross-Device Challenges in Motor Imagery",
+      "title": "EEG-Infinity: A mathematical modeling-inspired architecture for addressing cross-device challenges in motor imagery",
       "authors": "C Qin, R Yang, L Zhu, Z Chen, M Huang, FE Alsaadi, Z Wang",
       "venue": "IEEE Transactions on Neural Systems and Rehabilitation Engineering , 2025",
       "year": "2025",
@@ -37,7 +37,7 @@
     },
     {
       "id": "_FxGoFyzp5QC",
-      "title": "HEAR: An EEG Foundation Model with Heterogeneous Electrode Adaptive Representation",
+      "title": "HEAR: An EEG foundation model with heterogeneous electrode adaptive representation",
       "authors": "Z Chen, C Qin, W You, R Liu, C Chu, R Yang, KC Tan, J Wu",
       "venue": "arXiv preprint arXiv:2510.12515 , 2025",
       "year": "2025",
@@ -50,32 +50,32 @@
       "authors": "Z Jiang, R Yang, Y Ma, C Qin, X Chen, Z Wang",
       "venue": "IEEE Transactions on Cybernetics , 2025",
       "year": "2025",
-      "citations": 31,
+      "citations": 32,
       "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wdxoBcUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wdxoBcUAAAAJ:ufrVoPGSRksC"
     },
     {
       "id": "eQOLeE2rZwMC",
       "title": "Adaptive thresholding in EEG artifact removal through multimodal fusion: A multimodal artifact subspace reconstruction approach",
       "authors": "W You, R Yang, C Qin, M Huang, Z Wang",
-      "venue": "IEEE Transactions on Emerging Topics in Computational Intelligence , 2025",
+      "venue": "IEEE Transactions on Emerging Topics in Computational Intelligence 10 (1 … , 2025",
       "year": "2025",
       "citations": 8,
       "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wdxoBcUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wdxoBcUAAAAJ:eQOLeE2rZwMC"
     },
     {
       "id": "YsMSGLbcyi4C",
-      "title": "Social entropy informer: A multi-scale model-data dual-driven approach for pedestrian trajectory prediction",
+      "title": "Social entropy informer: a multi-scale model-data dual-driven approach for pedestrian trajectory prediction",
       "authors": "Z Jiang, C Qin, R Yang, B Shi, FE Alsaadi, Z Wang",
-      "venue": "IEEE Transactions on Intelligent Transportation Systems , 2025",
+      "venue": "IEEE Transactions on Intelligent Transportation Systems 26 (10), 16438-16453 , 2025",
       "year": "2025",
       "citations": 32,
       "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wdxoBcUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wdxoBcUAAAAJ:YsMSGLbcyi4C"
     },
     {
       "id": "Y0pCki6q_DkC",
-      "title": "EEGUnity: Open-source tool in facilitating unified EEG datasets towards large-scale EEG model",
+      "title": "EEGUnity: Open-source tool in facilitating unified EEG datasets toward large-scale EEG model",
       "authors": "C Qin, R Yang, W You, Z Chen, L Zhu, M Huang, Z Wang",
-      "venue": "IEEE Transactions on Neural Systems and Rehabilitation Engineering , 2025",
+      "venue": "IEEE Transactions on Neural Systems and Rehabilitation Engineering 33, 1653-1663 , 2025",
       "year": "2025",
       "citations": 17,
       "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wdxoBcUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wdxoBcUAAAAJ:Y0pCki6q_DkC"
@@ -97,6 +97,15 @@
       "year": "2024",
       "citations": 0,
       "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wdxoBcUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wdxoBcUAAAAJ:W7OEmFMy1HYC"
+    },
+    {
+      "id": "qjMakFHDy7sC",
+      "title": "Effect of reaching movement modulation on experience of control in virtual reality",
+      "authors": "L Wang, M Huang, R Yang, C Qin, J Han, HN Liang",
+      "venue": "International Journal of Human–Computer Interaction 40 (21), 6740-6757 , 2024",
+      "year": "2024",
+      "citations": 8,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wdxoBcUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wdxoBcUAAAAJ:qjMakFHDy7sC"
     },
     {
       "id": "Tyk-4Ss8FVUC",
@@ -126,15 +135,6 @@
       "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wdxoBcUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wdxoBcUAAAAJ:WF5omc3nYNoC"
     },
     {
-      "id": "qjMakFHDy7sC",
-      "title": "Effect of reaching movement modulation on experience of control in virtual reality",
-      "authors": "L Wang, M Huang, R Yang, C Qin, J Han, HN Liang",
-      "venue": "University of Exeter , 2023",
-      "year": "2023",
-      "citations": 7,
-      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wdxoBcUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wdxoBcUAAAAJ:qjMakFHDy7sC"
-    },
-    {
       "id": "2osOgNQ5qMEC",
       "title": "Spatial Variation Generation Algorithm for Motor Imagery Data Augmentation: Increasing the Density of Sample Vicinity",
       "authors": "C Qin, R Yang, M Huang, W Liu, Z Wang",
@@ -149,7 +149,7 @@
       "authors": "R Huang, C Qin, JL Li, X Lan",
       "venue": "Optimal Control Applications and Methods 44 (3), 1570-1587 , 2023",
       "year": "2023",
-      "citations": 43,
+      "citations": 41,
       "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wdxoBcUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wdxoBcUAAAAJ:u-x6o8ySG0sC"
     },
     {
@@ -198,5 +198,5 @@
       "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wdxoBcUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wdxoBcUAAAAJ:u5HHmVD_uO8C"
     }
   ],
-  "updated_at": "2026-07-27T06:02:19+00:00"
+  "updated_at": "2026-08-05T05:25:05+00:00"
 }
