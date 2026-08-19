@@ -3,9 +3,9 @@
     "id": "wdxoBcUAAAAJ",
     "name": "Chengxuan Qin",
     "url": "https://scholar.google.com/citations?user=wdxoBcUAAAAJ&hl=en",
-    "citations": 210,
+    "citations": 226,
     "h_index": 8,
-    "i10_index": 6
+    "i10_index": 7
   },
   "publications": [
     {
@@ -41,7 +41,7 @@
       "authors": "Z Chen, C Qin, W You, R Liu, C Chu, R Yang, KC Tan, J Wu",
       "venue": "arXiv preprint arXiv:2510.12515 , 2025",
       "year": "2025",
-      "citations": 9,
+      "citations": 10,
       "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wdxoBcUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wdxoBcUAAAAJ:_FxGoFyzp5QC"
     },
     {
@@ -50,7 +50,7 @@
       "authors": "Z Jiang, R Yang, Y Ma, C Qin, X Chen, Z Wang",
       "venue": "IEEE Transactions on Cybernetics , 2025",
       "year": "2025",
-      "citations": 32,
+      "citations": 39,
       "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wdxoBcUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wdxoBcUAAAAJ:ufrVoPGSRksC"
     },
     {
@@ -68,7 +68,7 @@
       "authors": "Z Jiang, C Qin, R Yang, B Shi, FE Alsaadi, Z Wang",
       "venue": "IEEE Transactions on Intelligent Transportation Systems 26 (10), 16438-16453 , 2025",
       "year": "2025",
-      "citations": 32,
+      "citations": 38,
       "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wdxoBcUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wdxoBcUAAAAJ:YsMSGLbcyi4C"
     },
     {
@@ -104,7 +104,7 @@
       "authors": "L Wang, M Huang, R Yang, C Qin, J Han, HN Liang",
       "venue": "International Journal of Human–Computer Interaction 40 (21), 6740-6757 , 2024",
       "year": "2024",
-      "citations": 8,
+      "citations": 9,
       "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wdxoBcUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wdxoBcUAAAAJ:qjMakFHDy7sC"
     },
     {
@@ -149,7 +149,7 @@
       "authors": "R Huang, C Qin, JL Li, X Lan",
       "venue": "Optimal Control Applications and Methods 44 (3), 1570-1587 , 2023",
       "year": "2023",
-      "citations": 41,
+      "citations": 42,
       "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wdxoBcUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wdxoBcUAAAAJ:u-x6o8ySG0sC"
     },
     {
@@ -198,5 +198,5 @@
       "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wdxoBcUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wdxoBcUAAAAJ:u5HHmVD_uO8C"
     }
   ],
-  "updated_at": "2026-08-09T03:53:09+00:00"
+  "updated_at": "2026-08-19T03:11:24+00:00"
 }
