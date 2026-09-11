@@ -3,8 +3,8 @@
     "id": "wdxoBcUAAAAJ",
     "name": "Chengxuan Qin",
     "url": "https://scholar.google.com/citations?user=wdxoBcUAAAAJ&hl=en",
-    "citations": 232,
-    "h_index": 8,
+    "citations": 238,
+    "h_index": 9,
     "i10_index": 7
   },
   "publications": [
@@ -50,7 +50,7 @@
       "authors": "Z Jiang, R Yang, Y Ma, C Qin, X Chen, Z Wang",
       "venue": "IEEE Transactions on Cybernetics , 2025",
       "year": "2025",
-      "citations": 42,
+      "citations": 44,
       "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wdxoBcUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wdxoBcUAAAAJ:ufrVoPGSRksC"
     },
     {
@@ -59,7 +59,7 @@
       "authors": "W You, R Yang, C Qin, M Huang, Z Wang",
       "venue": "IEEE Transactions on Emerging Topics in Computational Intelligence 10 (1 … , 2025",
       "year": "2025",
-      "citations": 8,
+      "citations": 9,
       "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wdxoBcUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wdxoBcUAAAAJ:eQOLeE2rZwMC"
     },
     {
@@ -68,7 +68,7 @@
       "authors": "Z Jiang, C Qin, R Yang, B Shi, FE Alsaadi, Z Wang",
       "venue": "IEEE Transactions on Intelligent Transportation Systems 26 (10), 16438-16453 , 2025",
       "year": "2025",
-      "citations": 40,
+      "citations": 43,
       "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wdxoBcUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wdxoBcUAAAAJ:YsMSGLbcyi4C"
     },
     {
@@ -198,5 +198,5 @@
       "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wdxoBcUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wdxoBcUAAAAJ:u5HHmVD_uO8C"
     }
   ],
-  "updated_at": "2026-09-03T07:10:55+00:00"
+  "updated_at": "2026-09-11T07:17:27+00:00"
 }
