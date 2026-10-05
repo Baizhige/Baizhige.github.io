@@ -3,11 +3,20 @@
     "id": "wdxoBcUAAAAJ",
     "name": "Chengxuan Qin",
     "url": "https://scholar.google.com/citations?user=wdxoBcUAAAAJ&hl=en",
-    "citations": 244,
+    "citations": 245,
     "h_index": 9,
     "i10_index": 7
   },
   "publications": [
+    {
+      "id": "0EnyYjriUFMC",
+      "title": "Benchmarking EEG Foundation Models at Scale: Lessons from 20,000 Evaluations",
+      "authors": "Z Chen, S Peng, C Qin, R Liu, R Yang, KC Tan, J Wu",
+      "venue": "arXiv preprint arXiv:2609.32743 , 2026",
+      "year": "2026",
+      "citations": 0,
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wdxoBcUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wdxoBcUAAAAJ:0EnyYjriUFMC"
+    },
     {
       "id": "Se3iqnhoufwC",
       "title": "EEG Benchmarking Needs a Task Specification Layer: NeuroDoc for Rulebook-Guided, Executable Benchmark Construction",
@@ -41,7 +50,7 @@
       "authors": "Z Chen, C Qin, W You, R Liu, C Chu, R Yang, KC Tan, J Wu",
       "venue": "arXiv preprint arXiv:2510.12515 , 2025",
       "year": "2025",
-      "citations": 10,
+      "citations": 11,
       "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wdxoBcUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wdxoBcUAAAAJ:_FxGoFyzp5QC"
     },
     {
@@ -207,5 +216,5 @@
       "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wdxoBcUAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=wdxoBcUAAAAJ:u5HHmVD_uO8C"
     }
   ],
-  "updated_at": "2026-10-01T08:57:06+00:00"
+  "updated_at": "2026-10-05T09:05:59+00:00"
 }
