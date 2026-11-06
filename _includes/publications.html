@@ -1,0 +1,25 @@
+{% assign publications = site.data.scholar.publications %}
+{% if publications and publications.size > 0 %}
+<p class="scholar-summary">
+  Automatically synced from <a href="{{ site.data.scholar.profile.url }}">Google Scholar</a>.
+  Citations: {{ site.data.scholar.profile.citations }} ·
+  h-index: {{ site.data.scholar.profile.h_index }} ·
+  Updated: {{ site.data.scholar.updated_at | date: "%Y-%m-%d" }}
+</p>
+
+<ol class="publication-list">
+{% for paper in publications %}
+  <li>
+    <strong><a href="{{ paper.scholar_url }}">{{ paper.title }}</a></strong><br>
+    {{ paper.authors }}<br>
+    {% if paper.venue != "" %}<em>{{ paper.venue }}</em>{% endif %}
+    {% if paper.year != "" and paper.venue == "" %}<em>{{ paper.year }}</em>{% endif %}
+    · Citations: {{ paper.citations }}
+  </li>
+{% endfor %}
+</ol>
+{% else %}
+<p>Publication data is temporarily unavailable. Please see the
+  <a href="{{ site.author.googlescholar }}">Google Scholar profile</a>.
+</p>
+{% endif %}
